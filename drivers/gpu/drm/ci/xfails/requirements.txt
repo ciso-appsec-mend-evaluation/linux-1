@@ -1,5 +1,5 @@
 git+https://gitlab.freedesktop.org/gfx-ci/ci-collate@09e7142715c16f54344ddf97013331ba063b162b
-termcolor==2.3.0
+termcolor==3.3.0
 
 # ci-collate dependencies
 certifi==2023.7.22
