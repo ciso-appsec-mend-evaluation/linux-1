@@ -12,6 +12,6 @@ requests-toolbelt==1.0.0
 ruamel.yaml==0.17.32
 ruamel.yaml.clib==0.2.7
 setuptools==70.0.0
-tenacity==8.2.3
+tenacity==9.1.4
 urllib3==2.0.7
 wheel==0.41.1
